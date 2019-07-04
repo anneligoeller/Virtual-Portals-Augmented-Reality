@@ -60,14 +60,12 @@ This course will be easier on a Mac if possible, but there will be a workaround 
 
 ## Exercises To Do Before Class
 - Explore these sites which offer options for free 3D models:
-      -[Turbosquid](https://www.turbosquid.com/)
-
-      -[Turbosquid](https://www.thingiverse.com/
-
-      -[Character Generator](https://charactergenerator.autodesk.com/)      
-            (Free to download a low polygon customizable avatar! You just need to make an account
+      -[Turbosquid](https://www.turbosquid.com)
+      -[Turbosquid](https://www.thingiverse.com)
+      -[Character Generator](https://charactergenerator.autodesk.com/) Free to download a low polygon customizable avatar! You just need to make an account
 
 - Download one model to use for class -- the file format you are looking for is .obj (object) or .dae (collada)
+
 -Unfortunately, to publish the AR you create at the end of class, you will need a [Facebook](https://www.facebook.com/) account :^(
 If you don’t have one and you don’t want your info on Facebook, consider creating a pseudonym when you make the account (but you do have to have a working email address to access)
 
@@ -93,7 +91,7 @@ A polygon mesh is a collection of vertices, edges and faces that defines the sha
 - If you tried face tracking, try hand tracking
 - If you used a downloaded 3D model, try modeling your own mesh
 - Now that you understand a visual coding method of working with AR, consider using ARKit and XCode or trying Snapchat’s proprietary [AR software](https://lensstudio.snapchat.com/)
-- If you did not have time to do so in class, publish your AR to [Facebook] (https://facebook.com/) or [Instagram](https://instagram.com/) so others can use it!
+- If you did not have time to do so in class, publish your AR to [Facebook](https://facebook.com/) or [Instagram](https://instagram.com/) so others can use it!
 - Reflection:
     - Now that you have learned how to create an Augmented Reality experience, has your perception of the virtual and physical world changed?
     - Do you think 3D objects in Augmented Reality space are truly there or is it an illusion?
