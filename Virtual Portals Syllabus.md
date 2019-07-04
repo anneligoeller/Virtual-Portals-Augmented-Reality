@@ -60,15 +60,12 @@ This course will be easier on a Mac if possible, but there will be a workaround 
 
 ## Exercises To Do Before Class
 - Explore these sites which offer options for free 3D models:
-      * [Turbosquid](https://www.turbosquid.com/)
+      -[Turbosquid](https://www.turbosquid.com/)
 
+      -[Turbosquid](https://www.thingiverse.com/
 
-      * [Turbosquid](https://www.thingiverse.com/
-
-
-      * [Character Generator](https://charactergenerator.autodesk.com/)      
+      -[Character Generator](https://charactergenerator.autodesk.com/)      
             (Free to download a low polygon customizable avatar! You just need to make an account
-
 
 - Download one model to use for class -- the file format you are looking for is .obj (object) or .dae (collada)
 -Unfortunately, to publish the AR you create at the end of class, you will need a [Facebook](https://www.facebook.com/) account :^(
