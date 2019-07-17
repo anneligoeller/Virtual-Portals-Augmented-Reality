@@ -24,7 +24,7 @@ This course is designed for anyone who is comfortable using a computer. Some exp
 Install before class:
 - [Blender](https://www.blender.org/download/)
 - [Spark AR Studio](https://sparkar.facebook.com/ar-studio/download)
-WINDOWS USERS: Unfortunately, Spark AR is not readily available on Windows. However, you can sign up for the [beta version](https://www.facebook.com/arp/sparkar/windows-alpha?utm_source=social_facebook_&utm_medium=sparkar&utm_campaign=organic&utm_content=post-url&utm_offering=augmented_reality&utm_product=windows_alpha_120518&fbclid=IwAR1wVRidZXvL5IxxKjt9HFoie9kXRvUaQc4SGFx8qAuXk5vfWNRpffWLLeA) .
+WINDOWS USERS: Unfortunately, Spark AR is not readily available on Windows. However, you can sign up for the [beta version.](https://www.facebook.com/arp/sparkar/windows-alpha?utm_source=social_facebook_&utm_medium=sparkar&utm_campaign=organic&utm_content=post-url&utm_offering=augmented_reality&utm_product=windows_alpha_120518&fbclid=IwAR1wVRidZXvL5IxxKjt9HFoie9kXRvUaQc4SGFx8qAuXk5vfWNRpffWLLeA)
 For this workshop, it is recommended that you use Mac
 
 ## Outcomes & Goals
